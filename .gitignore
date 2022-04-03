@@ -33,6 +33,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+<<<<<<< HEAD
 
 #google auth
 auth.json
+=======
+>>>>>>> 5fe75fbe3226e27e09361f1908bc9ce2f3dd0a70
